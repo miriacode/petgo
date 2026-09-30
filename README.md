@@ -124,7 +124,7 @@ Experience the live storefront directly in your browser:
 
 ## 👋 Author
 
-Designed and engineered by **Miriam Acuña** — software engineer dedicated to building resilient, scalable, and delightful web applications.
+Designed and engineered by **Miriam Acuña**.
 
 - 💼 **LinkedIn**: [Miriam Acuña](https://www.linkedin.com/in/miriam-acuna-enciso/)
 - 🌐 **Portfolio**: [miriacode.vercel.app](https://miriacode.vercel.app)
